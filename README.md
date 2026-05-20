@@ -67,7 +67,7 @@ all files in this repo.
 
 | Stat | Count |
 |------|-------|
-| Total Categories | 12 |
+| Total Categories | 13 |
 | Case Studies | Growing weekly |
 | Platforms Covered | WordPress, WooCommerce, Elementor, Divi, Shopify |
 | Years of Experience Behind This | 17+ |
