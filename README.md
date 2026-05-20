@@ -30,20 +30,22 @@ Every case study in this repo follows the same structure:
 
 ## 📂 Categories
 
-| # | Category | What's Inside |
-|---|----------|---------------|
-| 01 | [White Screen of Death](./white-screen-of-death/) | WSOD causes, memory limits, fatal errors |
-| 02 | [PHP Errors](./php-errors/) | Fatal errors, deprecated functions, version conflicts |
-| 03 | [Plugin & Theme Conflicts](./plugin-theme-conflicts/) | Conflict isolation, update failures, JS conflicts |
-| 04 | [Elementor Fixes](./elementor-fixes/) | Broken layouts, widget conflicts, mobile issues |
-| 05 | [WooCommerce Fixes](./woocommerce-fixes/) | Checkout, cart, gallery, product page issues |
-| 06 | [ACF Issues](./acf-issues/) | Field rendering, repeater, flexible content, ALT text |
-| 07 | [Hooks, Actions & Filters](./hooks-actions-filters/) | Custom hooks, action sequences, filter fixes |
-| 08 | [Performance Optimization](./performance-optimization/) | LCP, CLS, lazy load, caching, speed fixes |
-| 09 | [Technical SEO](./technical-seo/) | Schema conflicts, indexing, canonical, sitemap issues |
-| 10 | [Database Errors](./database-errors/) | Connection failures, corruption, MySQL issues |
-| 11 | [Server & Hosting](./server-hosting/) | Migration, redirects, SSL, cPanel, DNS issues |
-| 12 | [Website Security & Malware](./website-security-malware/) | Malware cleanup, hardening, hack recovery |
+| #  | Category                                                                | Description                                                         |
+| -- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 01 | [White Screen of Death](./white-screen-of-death/)                       | WSOD issues, memory limits, fatal PHP errors, and site crashes      |
+| 02 | [PHP Errors](./php-errors/)                                             | Parse errors, fatal errors, deprecated functions, version conflicts |
+| 03 | [Plugin & Theme Conflicts](./plugin-theme-conflicts/)                   | Plugin clashes, theme conflicts, update failures, JS/CSS issues     |
+| 04 | [Elementor Fixes](./elementor-fixes/)                                   | Layout breaking, widget issues, editor not loading, responsive bugs |
+| 05 | [WooCommerce Fixes](./woocommerce-fixes/)                               | Cart/checkout issues, product page errors, payment flow problems    |
+| 06 | [ACF Issues](./acf-issues/)                                             | Custom fields, repeater issues, image ALT problems, data rendering  |
+| 07 | [Hooks, Actions & Filters](./hooks-actions-filters/)                    | Custom development using WordPress hooks and filters                |
+| 08 | [Performance Optimization](./performance-optimization/)                 | Speed optimization, caching, LCP/CLS fixes, database tuning         |
+| 09 | [Technical SEO](./technical-seo/)                                       | Schema issues, indexing problems, canonical errors, sitemap fixes   |
+| 10 | [Database Errors](./database-errors/)                                   | MySQL issues, connection errors, corruption, query failures         |
+| 11 | [Server & Hosting](./server-hosting/)                                   | Migration issues, DNS, SSL, cPanel, hosting configuration           |
+| 12 | [Website Security & Malware](./website-security-malware/)               | Malware cleanup, hacking recovery, security hardening               |
+| 13 | [WordPress Admin Dashboard Issues](./wordpress-admin-dashboard-issues/) | wp-admin login loops, dashboard UI issues, admin access problems    |
+
 
 ---
 
