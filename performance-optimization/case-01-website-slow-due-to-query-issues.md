@@ -1,5 +1,6 @@
 # Case 01 — Website Slow Due to Database Query Overload
 
+
 **Category:** Performance Optimization  
 **Platform:** WordPress + WooCommerce  
 **Difficulty:** Intermediate — Advanced  
